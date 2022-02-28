@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kodex_ai_analysis/static/css/main.0368502d.css",
+    "main.js": "/kodex_ai_analysis/static/js/main.ce34f6ce.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/kodex_ai_analysis/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/kodex_ai_analysis/index.html",
+    "main.0368502d.css.map": "/kodex_ai_analysis/static/css/main.0368502d.css.map",
+    "main.ce34f6ce.js.map": "/kodex_ai_analysis/static/js/main.ce34f6ce.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/kodex_ai_analysis/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0368502d.css",
+    "static/js/main.ce34f6ce.js"
+  ]
+}
