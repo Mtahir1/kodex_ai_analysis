@@ -4,20 +4,17 @@ Is deployed on Github Pages:
 
 https://mtahir1.github.io/kodex_ai_analysis/
 
-Valid GET routes:
 
+<h3> Installation and setup instructions </h3>
 
-
-<h3> Installation </h3>
-
+Installation:
 
 ```
-$ pip install -r requirements.txt
+npm install
 ```
 
-<h3> Flask Confguration </h3>
+To start server:
 
 ```
-app = Flask(__name__)
-app.config['DEBUG'] = True
+npm start
 ```
